@@ -1,5 +1,3 @@
-Absolutely! Let's delve into Dependency Injection (DI) and Inversion of Control (IoC) in Spring Framework:
-
 **Dependency Injection and Inversion of Control (IoC)**
 
 1. **Overview:**
@@ -70,5 +68,3 @@ Absolutely! Let's delve into Dependency Injection (DI) and Inversion of Control 
 7. **Conclusion:**
    - Dependency Injection and Inversion of Control are fundamental principles in Spring Framework that promote loose coupling, modularity, and testability in Java applications.
    - Understanding these principles is crucial for leveraging the power and flexibility of Spring Framework in building robust and maintainable software solutions.
-
-This detailed explanation of Dependency Injection and Inversion of Control in Spring Framework provides students with a solid understanding of these core concepts and their significance in modern Java application development. The provided sample code illustrates different approaches to configuring dependencies in Spring, enabling students to grasp the practical implementation of DI and IoC principles.
