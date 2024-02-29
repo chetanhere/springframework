@@ -1,6 +1,6 @@
 **Class Content:**
 
-1. **Introduction to Spring Framework (30 minutes):**
+1. [**Introduction to Spring Framework (30 minutes):**](ioc.md)
    - Overview of Spring Framework and its purpose in Java development.
    - Brief history and evolution of Spring.
    - Explanation of the core features and advantages of using Spring.
