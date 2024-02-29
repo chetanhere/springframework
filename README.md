@@ -29,3 +29,8 @@
    - Overview of Aspect-Oriented Programming (AOP) and its role in separating cross-cutting concerns.
    - Explanation of key concepts such as aspects, advice, pointcuts, and join points.
    - Demonstration of implementing AOP in Spring using `@Aspect` annotation and aspect-oriented programming constructs.
+
+# The best resources are official documents
+- [Official Tutorial Guide](https://spring.io/guides)
+- [Quickstart](https://spring.io/quickstart)
+- [Spring Blog](https://spring.io/blog)
