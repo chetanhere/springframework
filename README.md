@@ -34,3 +34,5 @@
 - [Official Tutorial Guide](https://spring.io/guides)
 - [Quickstart](https://spring.io/quickstart)
 - [Spring Blog](https://spring.io/blog)
+
+[Another Crisp Video Tutorial](https://www.youtube.com/watch?v=aS9SQITRocc)
